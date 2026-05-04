@@ -1,0 +1,18 @@
+# Environments
+venv
+env
+__pycache__
+*.pyc
+
+# Data
+data/raw/data.csv
+data/raw/data_sampled.csv
+
+# Models & Outputs
+models/*.pkl
+outputs/plots
+outputs/reports
+
+# IDE files
+.vscode
+.idea
