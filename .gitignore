@@ -7,6 +7,7 @@ __pycache__
 # Data
 data/raw/data.csv
 data/raw/data_sampled.csv
+data/
 
 # Models & Outputs
 models/*.pkl
